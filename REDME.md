@@ -1,6 +1,1 @@
-npm init -y
-npm install sequelize --save
-npm install mysql2 --save
-npm install sequelize-cli --save
-
-npx sequelize-cli init   -> Criar estrutura de pastas do projeto
+O Projeto em questão têm por objetivo estudar a criação de APIS RestFull com Node + MySQL + Sequelize + Express
